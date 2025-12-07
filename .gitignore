@@ -7,3 +7,6 @@ npm-debug.log
 coverage/
 
 dist/
+
+# vscode
+.history/
